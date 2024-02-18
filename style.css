@@ -1,0 +1,249 @@
+*{
+    margin: 0px;
+
+}
+.body{
+    font-family: poppins;
+}
+.container{
+    margin: 0 auto;
+    max-width: 1440px;
+    width: 90%;
+}
+.header-area{
+    background-color: white;
+}
+.header{
+    display: flex;
+    height: 133px;
+    justify-content: space-between;
+    align-items: center;
+}
+.header a{
+    text-decoration: none;
+    color: #000;
+}
+.header ul li{
+    list-style: none;
+    display: inline-block;
+
+}
+.header ul li a {
+    text-decoration: none;
+    margin-right: 10px;
+    font-weight: 400px;
+    font-size: 14px;
+    
+}
+.banner-area{
+    background-image: url(images/banner/banner1.png);
+    background-size: cover;
+    height:683px;
+    width: 100%;
+    
+}
+.banner{
+    padding: 50px 0 50px 0;
+}
+
+.banner h1{
+    background-color: white;
+    width: 240px;
+    height: 50px;
+    padding: 10px;
+
+}
+.banner p{
+    background-color: white;
+    width: 270px;
+    height: 50px;
+    margin-top: 20px;
+    padding: 5px;
+
+
+}
+.relationships-area{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+
+}
+.relationships-text-area{
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    padding: 40px;
+    
+}
+.relationships-text-icon{
+    color: blue;
+}
+@media screen and (max-width:1024){
+.relationships-area{
+    display: block;
+}
+    
+}
+.services-area{
+    background-image: url(images/banner/banner2.png);
+    background-size: cover;
+    width: 1550px;
+    height: 780px;
+    top: 1523px;
+}
+.services{
+    padding: 60px 0 60px 0;
+
+}
+.services h2{
+    background-color: white;
+    width: 150px;
+    height: 30px;
+    padding: 20px;
+
+}
+.services h5{
+    background-color: white;
+    width: 500px;
+    height: 30px;
+    padding: 15px;
+
+
+
+}
+
+.ADULTS{
+    padding: 50px 0 50px 0;
+    
+}
+
+.text-area h3{
+    text-align: center;
+    display: flex;
+    height: 35px;
+   
+}
+.text-area h3 p{
+    display: flex;
+    font-family: Gilroy;
+    line-height: 22px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    
+}
+
+.text-area ul li a{
+    text-decoration: none;
+    
+}
+
+
+.second-text h3{
+
+    display: flex;
+    text-align: right;
+    justify-content: space-between;
+
+}  
+
+.second-text ul li a{
+    text-decoration: none;
+    
+
+}
+
+.therd-text ul li a{
+    text-decoration: none;
+}
+
+.four-text ul li a{
+    text-decoration: none;
+}
+.five-text ul li a{
+    text-decoration: none;
+}
+.six-text ul li a{
+    text-decoration: none;
+}
+.about-area{
+    background-image: url(images/banner/banner3.png);
+    background-size: cover;
+    width: 1550px;
+    height: 580px;
+    top: 1523px;
+}
+
+.about{
+    padding: 50px 0 50px 0;
+
+}
+.about h2{
+    background-color: white;
+    width: 145px;
+    height: 30px;
+    padding: 10px;
+}
+.about h5{
+    background-color: white;
+    width: 245px;
+    height: 30px;
+    padding: 5px; 
+}
+.our-area{
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    padding: 50px 0 50px 0;
+
+}
+.our-text-area p{
+    font-size: 15px;
+    font-weight: 300px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    padding: 15px;
+    
+}
+.our-text-area h5{
+    height: 130px;
+    width: 300px;
+    line-height: 25px;
+    letter-spacing: 0.05em;
+    text-align: left;
+    padding: 15px;
+
+
+}
+.our-text-area h3{
+    padding: 15px;
+}
+.media-area{
+
+    background-image: url(images/banner/banner4.png);
+    background-size: cover;
+    height:683px;
+    width: 100%;
+}
+.media{
+    padding: 50px 0 50px 0;
+}
+    
+.media h3{
+    background-color: white;
+    width: 200px;
+    height: 40px;
+    padding: 10px;
+
+}
+.media h5{
+    background-color: white;
+    width: 270px;
+    height: 50px;
+    margin-top: 20px;
+    padding: 5px;
+
+}
