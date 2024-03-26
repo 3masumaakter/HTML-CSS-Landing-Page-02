@@ -115,8 +115,8 @@
 
 }
 
-.ADULTS{
-    padding: 50px 0 50px 0;
+.ADULTS-area{
+    padding: 10px;
     
 }
 
@@ -194,9 +194,9 @@
 }
 .our-area{
     display: flex;
-    margin-top: 50px;
-    margin-bottom: 50px;
-    padding: 50px 0 50px 0;
+    margin-right: 20px;
+    padding: 70px;
+    
 
 }
 .our-text-area p{
@@ -205,7 +205,7 @@
     line-height: 25px;
     letter-spacing: 0.05em;
     text-align: left;
-    padding: 15px;
+   
     
 }
 .our-text-area h5{
@@ -214,13 +214,11 @@
     line-height: 25px;
     letter-spacing: 0.05em;
     text-align: left;
-    padding: 15px;
+   
 
 
 }
-.our-text-area h3{
-    padding: 15px;
-}
+
 .media-area{
 
     background-image: url(images/banner/banner4.png);
